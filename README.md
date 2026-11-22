@@ -35,3 +35,14 @@ Neste GitHub, compartilho meus projetos, aprendizados e minha evolução no dese
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   
+## 🚀 Meus Projetos
+
+Estou construindo meu portfólio com projetos pessoais que conectam Desenvolvimento de Software e Análise de Dados.
+
+### 📊 Análise Comercial com SQL
+
+**Status:** Em planejamento
+
+Meu primeiro projeto será dedicado à análise de dados comerciais utilizando SQL e dados fictícios, explorando indicadores e consultas que apoiam a tomada de decisões.
+
+*Em breve, o repositório estará disponível aqui.*
