@@ -46,3 +46,10 @@ Estou construindo meu portfólio com projetos pessoais que conectam Desenvolvime
 Meu primeiro projeto será dedicado à análise de dados comerciais utilizando SQL e dados fictícios, explorando indicadores e consultas que apoiam a tomada de decisões.
 
 *Em breve, o repositório estará disponível aqui.*
+
+## 📫 Onde me encontrar
+
+Você também pode acompanhar minha trajetória profissional pelo LinkedIn.
+
+[Meu LinkedIn](https://www.linkedin.com/in/flavia-santana-marcolino)
+  
