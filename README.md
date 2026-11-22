@@ -11,3 +11,27 @@ Hoje, atuo como desenvolvedora de software e sigo ampliando meus conhecimentos e
 Sou curiosa, gosto de aprender coisas novas e, principalmente, de colocar em prática o que aprendo. Acredito que a evolução profissional acontece a cada desafio, descoberta e solução construída.
 
 Neste GitHub, compartilho meus projetos, aprendizados e minha evolução no desenvolvimento de soluções que conectam **tecnologia e dados**.
+
+
+## 💻 Tecnologias e Ferramentas
+
+**Linguagens e Banco de Dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Desenvolvimento Web**
+
+![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-385E8D?style=for-the-badge)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  
