@@ -51,5 +51,6 @@ Meu primeiro projeto será dedicado à análise de dados comerciais utilizando S
 
 Você também pode acompanhar minha trajetória profissional pelo LinkedIn.
 
-[Meu LinkedIn](https://www.linkedin.com/in/flavia-santana-marcolino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavia-santana-marcolino)
+  
   
