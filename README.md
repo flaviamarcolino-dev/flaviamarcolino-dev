@@ -1,3 +1,4 @@
+![Banner de Flávia Marcolino - Desenvolvimento de Software e Análise de Dados](banner-github.png)
 
 # Olá, Mundo! Eu sou a Flávia 👋
 
